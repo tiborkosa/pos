@@ -1,0 +1,47 @@
+1,Drinks
+1,Water,0
+1,Sprite,1.99
+1,Coke,1.99
+1,Dr Pepper,1.99
+1,Cranberry J,2.45
+1,Orange J,2.45
+1,Mango J,2.99
+1,Pineapple,2.84
+2,Alcohol
+2,Vodka,5.96
+2,Tequila,5.95
+2,Rum,4.95
+2,Gin,5.5
+2,H Cab,5.95
+2,H Merlot,5.95
+2,H Riesling,5.95
+2,H Chardonay,5.95
+3,Appetizer
+3,Stuffed Mushroom,5.95
+3,Roasted Artichoke,5.95
+3,Fried Cheese,5.95
+3,Guacamole,5.95
+3,Spin Dip,5.95
+3,Oysters,8.95
+3,Wings,5.95
+4,Pizza
+4,Everything,12.95
+4,Hawaiian,11.95
+4,Pepperoni,10.95
+4,Cheese,8.95
+5,Chicken
+5,Romano,14.95
+5,Piccata,15.95
+5,Madeira,17.95
+5,Roasted Chicken,14.95
+5,Di Pana,16.95
+6,Steak
+6,Ribeye,28.95
+6,File,32.95
+6,Diana,19.95
+6,Hibachi,22.95
+6,NY Strip,27.95
+7,Dessert
+7,Chocolate Mousse,4.95
+7,Cheesecake,3.95
+7,Pudding,3.95
